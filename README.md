@@ -3,6 +3,7 @@
 📖 I am a **14 year old** developer, which mainly develops in:
 - Skript
 - JavaScript (NodeJS, not browser)
+- Java (mainly Spigot plugins)
 
 🤖 I am the founder and developer of [DisTune](https://github.com/CerialPvP/DisTune "Go to the DisTune repo.")
 
