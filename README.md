@@ -1,6 +1,6 @@
 ## Hi, I'm Cerial!
 
-📖 I am a **14 year old** developer, which mainly develops in:
+📖 I am a **15 year old** developer, which mainly develops in:
 - Skript
 - JavaScript (NodeJS, not browser)
 - Java (mainly Spigot plugins)
